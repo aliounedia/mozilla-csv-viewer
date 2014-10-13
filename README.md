@@ -3,7 +3,7 @@
 mozilla-csv-viewer
 ==================
 
-This is a port of  Ruffus Pollock 's the chrome-cs-viewer ( https://github.com/rgrp/chrome-csv-viewer  ). 
+This is a port of  Ruffus Pollock 's the chrome-cs-viewer ( https://github.com/rgrp/chrome-csv-viewer ). 
 I port it on FireFox . You can continue dovelopment  by using The Addon-Sdk, You 
 can download it From Here. Basically this extension allow you instead of dowloadin a CSV file 
 locally it open new tabs and display your datas into The reclineJs 's Grid/Map Viewer . You can get 
