@@ -50,6 +50,10 @@ The messaging processing between `content_scripts` and 'main.js' file
 with `posMessage` and `onMessage` stuffs 
 
 
+http://blog.mozilla.org/addons/2011/09/01/add-on-sdk-faq-content-script-access/
+https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Content_Scripts
+
+
 contributing
 ===========
 
