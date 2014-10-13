@@ -5,7 +5,7 @@ window.addEventListener("message", function(event) {
 function parseResponse(response){
   var records = null;
   try {
-    records = recline.Backend.CSV.parseCSV(response);
+    records = recline.Backend.CSV.parse(response);
   } catch(e) {
     console.log(JSON.stringify(e));
     alert('Failed to parse CSV file ...');
